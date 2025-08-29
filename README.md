@@ -68,7 +68,7 @@ This is a static, informational webpage built to display popular anime titles gr
 ```bash
 git clone https://syntaxcoder13.github.io/Anime-streaming-website-syntax/
 cd Anime-streaming-website-syntax/
-open index.html  # or drag it into your browser
+open index.html  # or drag it into your browser ```
 
 
 ---
