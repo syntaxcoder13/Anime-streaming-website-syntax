@@ -65,10 +65,10 @@ This is a static, informational webpage built to display popular anime titles gr
 2. Navigate to the project folder.
 3. Open `index.html` (or the main HTML file) in your browser to view the site.
 
-```bash
+bash
 git clone https://syntaxcoder13.github.io/Anime-streaming-website-syntax/
 cd Anime-streaming-website-syntax/
-open index.html  # or drag it into your browser ```
+open index.html  # or drag it into your browser
 
 
 ---
